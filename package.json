@@ -1,0 +1,8 @@
+{
+  "name": "agent-sponsors-24h",
+  "version": "1.0.0",
+  "description": "Agent IA de prospection sponsors pour les 24h Jogging de Liege",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
